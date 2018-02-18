@@ -1761,6 +1761,29 @@ body {
 .cid-qJVxbph5bW .dropdown-item:hover {
   color: #465052 !important;
 }
+.cid-qJZAozKbgk {
+  background: #ffffff;
+}
+.cid-qJZAozKbgk .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qJZAozKbgk .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qJZAozKbgk figcaption {
+  position: relative;
+}
+.cid-qJZAozKbgk figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qJZAozKbgk .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qJYTLpVyeY {
   background: #ffffff;
 }
